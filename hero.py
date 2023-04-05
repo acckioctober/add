@@ -1,4 +1,3 @@
-
 ''' step #1'''
 class SuperHero():
     people = 'people'
